@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Raden\bakso\bakso\bin\Debug\bakso.exe.config
+C:\Users\ACER\Documents\Raden\bakso\bakso\bin\Debug\bakso.exe
+C:\Users\ACER\Documents\Raden\bakso\bakso\bin\Debug\bakso.pdb
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.Form1.resources
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.Properties.Resources.resources
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.exe
+C:\Users\ACER\Documents\Raden\bakso\bakso\obj\Debug\bakso.pdb
