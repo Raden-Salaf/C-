@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\bin\Debug\Aplikasi_kalkulator.exe.config
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\bin\Debug\Aplikasi_kalkulator.exe
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\bin\Debug\Aplikasi_kalkulator.pdb
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.Form1.resources
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.Properties.Resources.resources
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.exe
+C:\Users\ACER\Documents\Raden\Aplikasi_kalkulator\Aplikasi_kalkulator\obj\Debug\Aplikasi_kalkulator.pdb

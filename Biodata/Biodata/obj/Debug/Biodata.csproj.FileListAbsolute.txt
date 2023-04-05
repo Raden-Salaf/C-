@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.Form1.resources
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.Properties.Resources.resources
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\bin\Debug\Biodata.exe.config
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\bin\Debug\Biodata.exe
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\bin\Debug\Biodata.pdb
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.exe
+C:\Users\ACER\Documents\Raden\Biodata\Biodata\obj\Debug\Biodata.pdb
